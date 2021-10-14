@@ -49,11 +49,11 @@ body{
     height: 115px;
 }
 
-/* input[type=texdt], input[type=number], input[type=email]{
+input[type=text], input[type=number], input[type=email]{
     border: none;
     border-bottom: 1px dashed rgb(184, 184, 184);
     width: 250px;
-} */
+}
 
 input:focus{
     /* border: red; */
